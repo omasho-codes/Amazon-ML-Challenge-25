@@ -1,4 +1,4 @@
-# Amazon ML Challenge 2025: Smart Product Pricing (AIR 12)
+# [Amazon ML Challenge 2025 ](https://docs.google.com/spreadsheets/d/e/2PACX-1vSA000odhpNXaEJTqAdDbwSj3T_fjH-w7QTCrCPIP54VL0bQUTVvok4hVFRpPCwsYTXY0BAvEUDQ2XS/pubhtml): Smart Product Pricing (AIR 12)
 
 This repository contains the code and methodology for our **12th Place (All India Rank)** solution in the Amazon ML Challenge 2025: Smart Product Pricing.
 
