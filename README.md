@@ -1,3 +1,4 @@
+
 # [Amazon ML Challenge 2025 ](https://docs.google.com/spreadsheets/d/e/2PACX-1vSA000odhpNXaEJTqAdDbwSj3T_fjH-w7QTCrCPIP54VL0bQUTVvok4hVFRpPCwsYTXY0BAvEUDQ2XS/pubhtml): Smart Product Pricing (AIR 12)
 
 This repository contains the code and methodology for our **12th Place (All India Rank)** solution in the Amazon ML Challenge 2025: Smart Product Pricing.
@@ -130,3 +131,7 @@ The final performance was evaluated on a 20% hold-out validation set. The scores
 Our solution successfully demonstrates the power of a hybrid deep learning and traditional machine learning approach with loss choices and preprocesing. By leveraging a fine-tuned vision-language model to create high-dimensional, information dense features which we provided to our GBMs with features that captured complex, multimodal nuances.
 
 This architecture highlights the effectiveness of using large models for **intelligent feature engineering** rather than as monolithic, end-to-end predictors.
+
+
+<img src="https://github.com/user-attachments/assets/a99712f3-f86b-4e4b-9d49-2f07c845fbdd" width="600"/>
+
